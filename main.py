@@ -47,8 +47,9 @@ def game():
 
       Example gameplay: 
 
-      Harry vs. Hermione
-      Harry - {Spell 1}. Say whether the other player was able to defend the spell. - Indicate points the player wins depending on strength of spell if other player was not able to successfully defend.  
+      Player 1 vs Player 2
+      Player 1 - {Spell x}. Say whether the other player was able to defend the spell. - Indicate points the player wins depending on strength of spell if other player was not able to successfully defend.  
+      Player 2 - {Spell x}. ay whether the other player was able to defend the spell. - Indicate points the player wins depending on strength of spell if other player was not able to successfully defend.  
 
       Once you've painted a cool picture of what's going on, I want you to display the list of spells available to the character to play. Make sure not to run a round first. 
       """
